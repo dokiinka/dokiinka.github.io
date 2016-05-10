@@ -7,4 +7,4 @@ title: Otevřená data
 
 http://portal.mpsv.cz/sz/stat
 
-Na této stránce jsou dostupné ke stažení informace týkající se nezaměstnanosti. 
+Na této stránce jsou dostupné ke stažení informace týkající se nezaměstnanosti. Data by se dala využít různě. Například ke zjištění, jaká je nezaměstnanost absolventů či lidí v určité věkové skupině.
