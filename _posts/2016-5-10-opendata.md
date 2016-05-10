@@ -13,4 +13,4 @@ Zde se nachází další statistiky týkající se zaměstnanosti a nezaměstnan
 
 ### [Otevřená data České správy sociálního zabezpečení](https://data.cssz.cz/web/otevrena-data/katalog-otevrenych-dat)
 
-Při evidenci se uchazeči časo zajímají o sociální pojištění a něktěří z nich jsou i OSVČ. Zde jsou informac, které by je mohly zajímat. Podmínky užití jsou [zde](https://data.cssz.cz/web/otevrena-data/podminky-uziti)
+Při evidenci se uchazeči časo zajímají o sociální pojištění a něktěří z nich jsou i OSVČ. Zde jsou informace, které by je mohly zajímat. Podmínky užití jsou [zde](https://data.cssz.cz/web/otevrena-data/podminky-uziti)
