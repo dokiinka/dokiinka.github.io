@@ -12,7 +12,9 @@ Jedná se o školní projekt studentů Katedry informačních studií a knihovni
 ### Kontakt
 
 [390486@mail.muni.cz](mailto:390486@mail.muni.cz)
+
 [418423@mail.muni.cz](mailto:418423@mail.muni.cz)
+
 [428651@mail.muni.cz](mailto:428651@mail.muni.cz)
 
 ## Více o projektu
