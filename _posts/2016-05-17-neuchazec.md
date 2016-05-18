@@ -15,3 +15,5 @@ Překážkou pro zařazení a vedení v evidenci UoZ je
 -	pokud  fyzická  osoba  bez  vážného  důvodu  ukončí  sama  nebo  na  základě  dohody  se  zaměstnavatelem  vhodné  zaměstnání zprostředkované krajskou pobočkou ÚP
 -	 pokud zaměstnavatel s fyzickou osobou ukončí toto zaměstnání z důvodu porušení povinnosti vyplývající z právních předpisů vztahujících se k jí vykonávané práci zvlášť hrubým způsobem. Do evidence UoZ může být zařazena po uplynutí 6 měsíců ode dne sjednaného jako den nástupu do zprostředkovaného zaměstnání.
 Podrobnější informace nalezne uchazeč zde – bod 8: https://formulare.mpsv.cz/okprace/cs/form/print.jsp?CMD=PrintEmpty&FN=PUchZ160101890&SSID=tnbqMfyuycF9dCrHIvheqbftsB~tjdkY
+
+<img src="/images/prace.jpg" alt="prace.jpg">
