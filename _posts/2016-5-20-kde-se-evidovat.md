@@ -8,6 +8,7 @@ Na všech pobočkách v místě trvalého bydliště, poté co osobně požádá
 
 - nesmíte mít jakýkoli jiný příjem (např. důchod či mateřská dovolená), případně se "soustavně připravovat na budoucí povolání", jak zní v slangu ÚP označení pro SŠ či VŠ studium
 
+<br>
 
 Nabízí se samozřejmě i dotaz, proč se vlastně evidovat. Nuže:
 
@@ -19,6 +20,7 @@ Nabízí se samozřejmě i dotaz, proč se vlastně evidovat. Nuže:
 
 - subjektivní poznámka: návštěva ÚP je zprvu nepříjemná, ale když spolupráce probíhá plynule, není třeba se za to třeba výrazně stydět
 
+<br>
 <br>
 <img src="/images/kde_se_evidovat.jpg" alt="kde_se_evidovat.jpg">
 <br>
