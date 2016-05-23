@@ -5,6 +5,7 @@ title: Kdy se uchazeč nemůže ucházet o zaměstnání?
 
 Kdy se uchazeč nemůže ucházet o zaměstnání?
 Uchazečem o zaměstnání se nemůže stát fyzická osoba v době, po kterou
+
 a)	je uznána dočasně neschopnou práce,
 b)	 vykonává trest odnětí svobody
 c)	pobírá peněžitou pomoc v mateřství v době před porodem nebo je 6 týdnů po porodu
